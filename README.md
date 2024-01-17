@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dio B {@sw13tch-dio}
 - 👀 I’m interested in machine learning, OS development, robotics and embedded systems (I also love astrophysics and quantum computing!)
-- 🌱 I’m currently in my 2nd year in college, as a dual major in CIS and Electromechanical Tech (this semester I'm learning Java, C, and assembly)
+- 🌱 I’m currently in my 2nd year in college, as a dual major in CIS and Electromechanical Tech 
 - 💞️ I’m looking to collaborate on anything that would help further my knowledge and earn me practical experience 
 - 📫 How to reach me: l.brown6@clasnet.sunyocc.edu
 
