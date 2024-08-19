@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, OS development, robotics and embedded systems (I also love astrophysics + quantum computing!)
 - 🌱 I’m currently in my last year at OCC, as a dual major in CompSci and Electromechanical Tech 
 - 💞️ I’m looking to collaborate on anything that would help further my knowledge and earn me practical experience 
-- 📫 How to reach me: l.brown6@clasnet.sunyocc.edu
+- 📫 How to reach me: diobrown.315@gmail.com
 
 <!---
 sw13tch-dio/sw13tch-dio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
