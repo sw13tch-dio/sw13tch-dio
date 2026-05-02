@@ -3,6 +3,8 @@
 - 🌱 I graduated from OCC with a degree in Electromechanical Tech, and am currently at Syracuse University as a Jack Kent Cooke Scholar aiming to complete the CompSci degree that I began at OCC as a dual major.
 - 💞️ I’m looking to collaborate on anything that would help further my knowledge and earn me practical experience. Specifically, if you have a project that involves modeling biological/psychological processes using machine learning, I would be very keen to join you.
 - 📫 How to reach me: diobrown.315@gmail.com
+- 🌐 My website:
+sw13tch.dev
 
 <!---
 sw13tch-dio/sw13tch-dio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
